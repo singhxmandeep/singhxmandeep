@@ -14,8 +14,6 @@
 - 👨‍💻 All of my projects are available at [https://singhxmandeep.netlify.app](https://singhxmandeep.netlify.app)
 - <img align="right" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif" alt="Animated GIF" style="width: 20vw; height: 25vh;">
 
-
-
 - 💬 Ask me about **React, Javascript, Html, Java, Javscript**
 
 - 📫 How to reach me **mandeepsingh.71ms31@gmail.com**
