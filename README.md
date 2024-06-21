@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **mandeepsingh.71ms31@gmail.com**
 
-- 📄 Know about my experiences "https://tinyurl.com/resumemandeep"
+- 📄 Know about my experiences "https://tinyurl.com/mandeepresume"
 
 - ⚡ Fun fact **When I'm not coding, I love exploring new tech gadgets and playing chess to keep my problem-solving skills sharp!**
 
