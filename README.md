@@ -1,8 +1,9 @@
-<a href="https://rishavchanda.io">
+<a href="https://github.com/singhxmandeep">
   <img src="https://media.giphy.com/media/1iqB9b8XvKwRa/giphy.gif" style="width: 100vw; height: 28vh; object-fit: cover;  display: block;">
 </a>
-
-<h1 align="center">Hi 👋, I'm Mandeep Singh</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Mandeep+Singh!;" />
+</h1>
 <h3 align="center">Passionate Computer Programming student at Algonquin College, developing innovative web applications using technologies like JavaScript, React.js, and Node.js.</h3>
 
 
